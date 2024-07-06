@@ -1,0 +1,1 @@
+I learn about pathlib one of the most used library.I also learned about reading the contents of the file and splitting them in a list.
